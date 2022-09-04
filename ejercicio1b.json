@@ -1,0 +1,64 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"25/08/2022",
+				"nombre":"Marvin",
+				"apellido":"Martinez",
+				"direccion":"Calle de Los Andes, 46",
+				"telefono":{
+					"@esCelular":"False",
+					"#text":"22541264"
+				},
+				"email":"me19004@ues.edu.sv",
+				"UrlWebPersonal":"http://xlm.me19004.tpi",
+				"carnet":"ME19004"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"25/08/2022",
+				"nombre":"Marvin",
+				"apellido":"Martinez",
+				"direccion":"Calle de Los Andes, 46",
+				"telefono":{
+					"@esCelular":"False",
+					"#text":"22541264"
+				},
+				"email":"me19004@ues.edu.sv",
+				"UrlWebPersonal":"http://xlm.me19004.tpi",
+				"carnet":"ME19004"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"25/08/2022",
+				"nombre":"Marvin",
+				"apellido":"Martinez",
+				"direccion":"Calle de Los Andes, 47",
+				"telefono":{
+					"@esCelular":"False",
+					"#text":"22541264"
+				},
+				"email":"me19004@ues.edu.sv",
+				"UrlWebPersonal":"http://xlm.me19004.tpi",
+				"dui":{
+					"@vencido":"True",
+					"#text":"05961598-3"
+				},
+				"isss":{
+					"@asegurado":"True",
+					"#text":"1523712"
+				},
+				"afp":{
+					"@sucursal":"Crecer",
+					"#text":"186987466515"
+				}
+			}
+		]}
+}

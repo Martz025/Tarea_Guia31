@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1b.css"?>
+<!-- ejemplo1.xml    ME19004-->
+<fichero>
+  <ficha id="1" fechaingreso="1/11/2012">
+      <nombre>Antonio</nombre>
+      <apellido>Barbero</apellido>
+      <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  
+  <ficha id="2" fechaingreso="25/08/2022">
+    <nombre>Marvin</nombre>
+    <apellido>Martinez</apellido>
+    <direccion>Calle de Los Andes, 46</direccion>
+    <telefono esCelular="False">22541264</telefono>
+    <email>me19004@ues.edu.sv</email>
+    <UrlWebPersonal>http://xlm.me19004.tpi</UrlWebPersonal>
+    <carnet>ME19004</carnet>
+  </ficha>
+  
+  <ficha id="2" fechaingreso="25/08/2022">
+    <nombre>Marvin</nombre>
+    <apellido>Martinez</apellido>
+    <direccion>Calle de Los Andes, 46</direccion>
+    <telefono esCelular="False">22541264</telefono>
+    <email>me19004@ues.edu.sv</email>
+    <UrlWebPersonal>http://xlm.me19004.tpi</UrlWebPersonal>
+    <carnet>ME19004</carnet>
+  </ficha>
+  
+  <ficha id="3" fechaingreso="25/08/2022">
+    <nombre>Marvin</nombre>
+    <apellido>Martinez</apellido>
+    <direccion>Calle de Los Andes, 47</direccion>
+    <telefono esCelular="False">22541264</telefono>
+    <email>me19004@ues.edu.sv</email>
+    <UrlWebPersonal>http://xlm.me19004.tpi</UrlWebPersonal>
+    <dui vencido="True">05961598-3</dui>
+    <isss asegurado="True">1523712</isss>
+    <afp sucursal="Crecer">186987466515</afp>
+  </ficha>
+</fichero>

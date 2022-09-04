@@ -1,0 +1,47 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"moneda":"Dolar  ($)",
+		"area":"503",
+		"idiomas":{
+			"oficial":"Español",
+			"autoctono":"Nahualt",
+			"segundo":"Ingles"
+		},
+		"departamentos":{"departamento":[
+				{
+					"@id":"1",
+					"@nombre":"San Salvador",
+					"cabecera":"San Salvador",
+					"habitantes":"1,700,000",
+					"altura":"545 MSNM",
+					"areaTerritorial":{
+						"@unidad":"Km^2",
+						"#text":"886,15"
+					}
+				},
+				{
+					"@id":"2",
+					"@nombre":"Santa Ana",
+					"cabecera":"Sana Ana",
+					"habitantes":"1,000,000",
+					"altura":"731 MSNM",
+					"areaTerritorial":{
+						"@unidad":"Km^2",
+						"#text":"2,023"
+					}
+				},
+				{
+					"@id":"2",
+					"@nombre":"Cabañas",
+					"cabecera":"Sensuntepeque",
+					"habitantes":"149,000",
+					"altura":"750 MSNM",
+					"areaTerritorial":{
+						"@unidad":"Km^2",
+						"#text":"1,104"
+					}
+				}
+			]}
+	}
+}

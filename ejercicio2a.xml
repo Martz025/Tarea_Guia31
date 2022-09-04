@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio2a.css"?>
+<!-- ejercicio2a.xml  ME19004 -->
+<pais nombre="El Salvador">
+<moneda>Dolar  ($)</moneda>
+<area>503</area>
+<idiomas>
+    <oficial>Español</oficial>
+    <autoctono>Nahualt</autoctono>
+    <segundo>Ingles</segundo>
+  </idiomas>
+  
+<departamentos>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+<areaTerritorial unidad="Km^2">15,000</areaTerritorial>
+</departamento>
+
+<departamento id="2" nombre="Santa Ana">
+      <cabecera>Santa Ana</cabecera>
+      <habitantes>1,000,000</habitantes>
+      <altura>731 MSNM</altura>
+      <areaTerritorial unidad="Km^2">20,000</areaTerritorial>
+  </departamento>
+</departamentos>
+</pais>
